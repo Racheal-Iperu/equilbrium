@@ -1,0 +1,46 @@
+.card{
+    width: 20vw;
+    height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    border:2px solid black;
+    border-radius: 5px;
+    background-color: hsl(216, 50%, 16%);
+}
+.centering{
+    text-align: center;
+}
+img{
+    height: auto;
+    width: 80%;
+    border-radius: 8px;
+}
+p{
+    font-size: 14px;
+    color: hsl(215, 51%, 70%);
+    margin-left: 1.5em;
+    font-weight: 300, 400, 600;
+}
+
+h2{
+    font-family: Outfit;
+    font-weight: 300, 400, 600;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 1.5em;
+}
+.right{
+    display:block;
+    margin:10px;
+    color:hsl(178, 100%, 50%);
+
+}
+
+.left{
+    display:block;
+    float:right;
+    width:50%;
+    margin-left:10px;
+    color: hsl(215, 51%, 70%);
+}
